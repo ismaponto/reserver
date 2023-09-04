@@ -1,0 +1,20 @@
+{
+  "name": "reservation",
+  "version": "1.0.0",
+  "description": "sistema de reservas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "reservas",
+    "rendez-vous"
+  ],
+  "author": "Ismael Pontoriero",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemailer": "^6.9.4"
+  }
+}
